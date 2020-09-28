@@ -11,3 +11,7 @@ export const Input = styled.input`
   }
   border-bottom: solid 1px #8b9293;
 `;
+
+export const LoginInput = styled(Input)`
+  font-size: 1em;
+`;
