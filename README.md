@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React TypeScript Redux-Saga Simple Test
+
 ## Available Scripts
 
 In the project directory, you can run:
