@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# React TypeScript Redux-Saga Simple Test
+# React TypeScript Redux-Saga Project
 
 ## Available Scripts
 
